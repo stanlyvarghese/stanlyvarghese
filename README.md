@@ -6,7 +6,7 @@
 
 ###
 
-<img align="right" height="240" src="M:\Users\Pictures\_2023-08-11_at_11.20.12.png"  />
+<img align="right" height="240" src="[M:\Users\Pictures\_2023-08-11_at_11.20.12.png](https://github.com/stanlyvarghese/stanlyvarghese/blob/main/_2023-08-11_at_11.20.12.png)"/>
 
 ###
 
