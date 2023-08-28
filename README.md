@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning frameworks using JavaScript<br>🎯 Goals: full-stack developer<br>🎲 Fun fact: I am a music enthusiast too</p>
+<p align="left">✨ Creating bugs since 2016<br>📚 I'm currently learning frameworks using JavaScript<br>🎯 Goals: full-stack developer<br>🎲 Fun fact: I am a music enthusiast too</p>
 
 ###
 
